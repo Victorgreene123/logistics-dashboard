@@ -72,6 +72,7 @@ export default function LogisticsDashboard() {
         <p className="text-gray-600">Payload: {Math.round(selectedFleet.load * 10)}Kg</p>
         <p className="text-gray-600">Max Load Volume: {Math.round(selectedFleet.load * 0.15)}m³</p>
       </div>
+      {/* rrrrrrrrrrr */}
 
 
 
