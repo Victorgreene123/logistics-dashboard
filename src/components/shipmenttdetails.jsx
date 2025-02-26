@@ -73,6 +73,8 @@ export default function LogisticsDashboard() {
         <p className="text-gray-600">Max Load Volume: {Math.round(selectedFleet.load * 0.15)}m³</p>
       </div>
 
+
+
       {/* Fleet Tracking Details */}
       <div className={`p-6 rounded-lg shadow-xl ${theme === "dark" ? "bg-gray-900 text-white" : "bg-white text-gray-900"}`}> 
         <h2 className="text-2xl font-bold mb-4">Fleet Tracking Details</h2>
