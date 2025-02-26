@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.design-text{
+    font-family: "Atkinson Hyperlegible Next", serif;
+}
+
+*{
+     font-family: "Poppins", serif;
+}
